@@ -18,22 +18,22 @@ browsers = [
         "seleniumVersion": '3.4.0',
         "platform": "Windows 10",
         "browserName": "firefox",
-        "version": "60.0"
+        "version": "latest"
     }, {
         "seleniumVersion": '3.4.0',
         "platform": "Windows 7",
         "browserName": "internet explorer",
-        "version": "11.0"
+        "version": "latest"
     }, {
         "seleniumVersion": '3.4.0',
-        "platform": "OS X 10.12",
+        "platform": "macOS 10.14",
         "browserName": "safari",
-        "version": "11.0"
+        "version": "latest"
     }, {
         "seleniumVersion": '3.4.0',
-        "platform": "OS X 10.11",
+        "platform": "macOS 10.15",
         "browserName": "chrome",
-        "version": "69.0",
+        "version": "latest",
         "extendedDebugging": True
     }]
 
